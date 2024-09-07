@@ -8,9 +8,10 @@ function App() {
 
   return (
     <>
-    <Header/>
-    <HeroSection/>
-    <ExploreFoodList/>
+      <Header />
+      <HeroSection />
+      <ExploreFoodList />
+      <FoodMenuList />
     </>
   )
 }
